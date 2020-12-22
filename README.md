@@ -3,7 +3,7 @@
 # Hello and welcome to my repository
 ## Meet UNES SITE
 
-![]()
+![](https://github.com/thiagodpaulla/site_unes/blob/main/UNES%20-%20.gif)
 
 ## Feel free to interact with the project at the link:
 https://thiagodpaulla.github.io/calculator/.

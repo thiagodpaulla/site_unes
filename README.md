@@ -1,9 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodepaulla/)](https://www.linkedin.com/in/thiagodepaulla/)   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/thiagodpaulla)](https://github.com/thiagodpaulla)
 
 # Hello and welcome to my repository
-## Meet calculator
+## Meet UNES SITE
 
-![](https://github.com/thiagodpaulla/calculator/blob/main/calculator.gif)
+![]()
 
 ## Feel free to interact with the project at the link:
 https://thiagodpaulla.github.io/calculator/.
@@ -24,11 +24,8 @@ https://thiagodpaulla.github.io/
 #Project
 
 💻 
-This is a calculator project that performs basic mathematical operations as well as operations with decimal numbers.
-As a challenge to transform or result of operations with decimals as a result with (,) then it was used or toLocaleString (BR) that solved the problem.
 
-Another challenge was to create a keyboard mapping for user interaction with the keyboard
-# Technologies
+this is a website made exclusively in HTML5 that simulates the page of a fictitious university
 
 🚀 The project was developed using the following technologies
 

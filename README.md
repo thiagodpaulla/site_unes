@@ -6,7 +6,7 @@
 ![](https://github.com/thiagodpaulla/site_unes/blob/main/UNES%20-%20.gif)
 
 ## Feel free to interact with the project at the link:
-https://thiagodpaulla.github.io/calculator/.
+https://thiagodpaulla.github.io/site_unes/
 
 ## Stretch a little more and, know a little more than I've been doing:
 
